@@ -1,0 +1,22 @@
+[user]
+	name = Jay Burgess
+	email = jay@rogueserenity.com
+	signingKey = /Users/jay/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/PublicKeys/c7506af2487f64a1537a90852e082186.pub
+[core]
+	excludesfile = /Users/jason/.gitignore_global
+	autocrlf = input
+[commit]
+	gpgsign = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[init]
+	defaultBranch = main
+[gpg]
+	format = ssh
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[fetch]
+	prune = true

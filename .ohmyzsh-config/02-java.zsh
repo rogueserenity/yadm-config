@@ -26,9 +26,7 @@ function set_java_and_print() {
 }
 
 #JAVA VERSION ALIASES
-alias j8='set_java_and_print jdk1.8.0_202.jdk'
-alias j11='set_java_and_print temurin-11.jdk'
 alias j17='set_java_and_print temurin-17.jdk'
-alias j20='set_java_and_print temurin-20.jdk'
+alias j21='set_java_and_print temurin-21.jdk'
 
-set_java_version temurin-17.jdk
+set_java_version temurin-21.jdk

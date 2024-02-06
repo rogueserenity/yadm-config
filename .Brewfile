@@ -51,8 +51,8 @@ mas "TextPlus", id: 1234445803
 mas "Xcode", id: 497799835
 
 # Java Development
-cask "temurin11"
 cask "temurin17"
+cask "temurin21"
 cask "temurin"
 brew "maven", args: ["ignore-dependencies"]
 cask "scenebuilder"

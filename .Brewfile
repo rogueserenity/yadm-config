@@ -10,6 +10,7 @@ cask "microsoft-office"
 cask "omnigraffle"
 cask "protonvpn"
 cask "rectangle"
+cask "secretive"
 cask "signal"
 mas "1Password for Safari", id: 1569813296
 mas "Dark Noise: Sound Machine", id: 1465439395

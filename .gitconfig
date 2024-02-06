@@ -1,7 +1,7 @@
 [user]
 	name = Jay Burgess
 	email = jay@rogueserenity.com
-	signingKey = /Users/jay/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/PublicKeys/c7506af2487f64a1537a90852e082186.pub
+	signingKey = /Users/jay/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/PublicKeys/10576597a9cd00c15868d31bf2c0a19a.pub
 [core]
 	excludesfile = /Users/jason/.gitignore_global
 	autocrlf = input

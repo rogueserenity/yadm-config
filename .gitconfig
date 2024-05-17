@@ -1,7 +1,7 @@
 [user]
 	name = Jay Burgess
 	email = jay@rogueserenity.com
-	signingKey = /Users/jay/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/PublicKeys/10576597a9cd00c15868d31bf2c0a19a.pub
+	signingkey = key::ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI3qL+wzPHjBaaceytY5l9aV253ZPYxloTH5aC+sdiD769Rr+SUG29HH0yL6LZ5vjVXOU5NSS8/cfA6foA8Q+d0= ecdsa-sha2-nistp256
 [core]
 	excludesfile = /Users/jason/.gitignore_global
 	autocrlf = input

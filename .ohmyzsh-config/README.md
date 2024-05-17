@@ -36,8 +36,6 @@ Most software is being installed by `brew bundle`. The following items need to b
 
 * Homebrew
 * oh-my-zsh
-* Java 1.8.0_202
-* Upwork
 
 #### Homebrew Packages
 

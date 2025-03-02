@@ -3,7 +3,7 @@
 	email = jay@rogueserenity.com
 	signingkey = key::ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI3qL+wzPHjBaaceytY5l9aV253ZPYxloTH5aC+sdiD769Rr+SUG29HH0yL6LZ5vjVXOU5NSS8/cfA6foA8Q+d0= ecdsa-sha2-nistp256
 [core]
-	excludesfile = /Users/jason/.gitignore_global
+	excludesFile = ~/.config/git/ignore
 	autocrlf = input
 [commit]
 	gpgsign = true

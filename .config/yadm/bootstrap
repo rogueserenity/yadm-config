@@ -1,0 +1,10 @@
+#!/bin/zsh
+
+. ~/.zshrc
+
+# Update Oh My ZSH!
+omz update
+
+# Update Homebrew
+brew bundle --file ~/.Brewfile
+brew update

@@ -1,4 +1,1 @@
-# Secretive Config
-export SSH_AUTH_SOCK=/Users/jay/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/socket.ssh
-
-alias beret="ssh jay@192.168.1.11"
+export SSH_AUTH_SOCK=/Users/jay/Library/Group Containers/2BUA8C4S2C.com.1password/t/agent.sock

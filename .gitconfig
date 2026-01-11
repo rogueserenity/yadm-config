@@ -24,3 +24,4 @@
 	rebase = true
 [gpg "ssh"]
 	program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
+	allowedSignersFile = /Users/jay/.ssh/allowed_signers

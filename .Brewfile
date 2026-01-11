@@ -1,6 +1,5 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-versions"
-brew "fnm"
 brew "gh"
 brew "git"
 brew "go"
@@ -8,23 +7,16 @@ brew "httpie"
 brew "hugo"
 brew "jq"
 brew "mas"
-brew "poetry"
-brew "python3"
 brew "yadm"
 brew "yq"
 cask "1password"
-cask "docker"
 cask "github"
 cask "microsoft-auto-update"
 cask "microsoft-office"
-cask "omnigraffle"
 cask "protonvpn"
 cask "rectangle"
-cask "secretive"
 cask "sf-symbols"
 cask "signal"
-cask "sourcetree"
-cask "visual-studio-code"
 mas "1Password for Safari", id: 1569813296
 mas "A Companion for SwiftUI", id: 1485436674
 mas "Apple Configurator", id: 1037126344
@@ -36,27 +28,24 @@ mas "Dark Noise", id: 1465439395
 mas "Developer", id: 640199958
 mas "DuckDuckGo Privacy for Safari", id: 1482920575
 mas "Flighty", id: 1358823008
-mas "ForkLift", id: 412448059
 mas "Goodnotes", id: 1444383602
+mas "HomePass", id: 1330266650
 mas "Hush", id: 1544743900
-mas "Icon Slate", id: 439697913
-mas "Keynote", id: 409183694
 mas "Kindle", id: 302584613
 mas "Mactracker", id: 430255202
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Parcel", id: 639968404
+mas "Parcel 2", id: 375589283
 mas "PDF Inspector", id: 1497698069
 mas "Photomator", id: 1444636541
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder", id: 1529448980
-mas "SEE Finance", id: 1316742770
+mas "SEE Finance", id: 6755652042
 mas "Slack", id: 803453959
 mas "Sofa", id: 1276554886
-mas "Synalyze It!", id: 417074533
 mas "TextPlus", id: 1234445803
 mas "The Camelizer", id: 1532579087
 mas "Unicorn Blocker", id: 1231935892

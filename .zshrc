@@ -8,9 +8,11 @@ ZSH_THEME="gianu"
 ZSH_CUSTOM=~/.ohmyzsh-config
 
 # Which plugins would you like to load?
-plugins=(brew git keychain macos sudo vi-mode wd)
+plugins=(brew git keychain macos mise sudo vi-mode wd)
 
 # Include homebrew zsh completions
 fpath=(/opt/homebrew/share/zsh/site-functions $fpath)
 
 source $ZSH/oh-my-zsh.sh
+
+eval "$(~/.local/bin/mise activate zsh)"

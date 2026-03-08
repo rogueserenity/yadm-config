@@ -1,22 +1,11 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-versions"
-brew "gh"
 brew "git"
-brew "go"
-brew "httpie"
-brew "hugo"
-brew "jq"
 brew "mas"
 brew "yadm"
-brew "yq"
 cask "1password"
-cask "github"
-cask "microsoft-auto-update"
-cask "microsoft-office"
-cask "protonvpn"
 cask "rectangle"
 cask "sf-symbols"
-cask "signal"
 mas "1Password for Safari", id: 1569813296
 mas "A Companion for SwiftUI", id: 1485436674
 mas "Apple Configurator", id: 1037126344
@@ -35,15 +24,17 @@ mas "Kindle", id: 302584613
 mas "Mactracker", id: 430255202
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft Word", id: 462054704
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
+mas "Numbers", id: 361304891
+mas "Pages", id: 361309726
 mas "Parcel 2", id: 375589283
 mas "PDF Inspector", id: 1497698069
 mas "Photomator", id: 1444636541
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
+mas "Proton VPN: Fast & Secure", id: 1437005085
 mas "Reeder", id: 1529448980
 mas "SEE Finance", id: 6755652042
+mas "Signal - Private Messenger", id: 874139669
 mas "Slack", id: 803453959
 mas "Sofa", id: 1276554886
 mas "TextPlus", id: 1234445803

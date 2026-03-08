@@ -5,7 +5,7 @@ export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="gianu"
 
 # Would you like to use another custom folder than $ZSH/custom?
-ZSH_CUSTOM=~/.ohmyzsh-config
+ZSH_CUSTOM=~/.config/ohmyzsh
 
 # Which plugins would you like to load?
 plugins=(brew git keychain macos mise sudo vi-mode wd)

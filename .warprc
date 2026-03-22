@@ -1,4 +1,5 @@
 custom:~/.oh-my-zsh/custom
+krect:~/Development/rogueserenity/krect
 rs:~/Development/go/src/github.com/rogueserenity
 rvi:~/Development/rvi
 sf:~/Development/simplefury

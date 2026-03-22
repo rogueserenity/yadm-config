@@ -3,5 +3,8 @@
 # Update Oh My ZSH!
 ~/.oh-my-zsh/tools/upgrade.sh
 
+# Update mise
+mise self-update --yes
+
 # Update Homebrew
-brew bundle --file ~/.Brewfile
+brew bundle -g

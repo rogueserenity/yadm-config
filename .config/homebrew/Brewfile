@@ -1,15 +1,15 @@
 tap "homebrew/bundle"
-tap "homebrew/cask-versions"
 brew "git"
 brew "mas"
 brew "yadm"
 cask "1password"
+cask "protonvpn"
 cask "rectangle"
 cask "sf-symbols"
+cask "signal"
 mas "1Password for Safari", id: 1569813296
 mas "A Companion for SwiftUI", id: 1485436674
 mas "Apple Configurator", id: 1037126344
-mas "Bear", id: 1091189122
 mas "Boop", id: 1518425043
 mas "CardPointers", id: 1472875808
 mas "Copilot", id: 1447330651
@@ -17,7 +17,6 @@ mas "Dark Noise", id: 1465439395
 mas "Developer", id: 640199958
 mas "DuckDuckGo Privacy for Safari", id: 1482920575
 mas "Flighty", id: 1358823008
-mas "Goodnotes", id: 1444383602
 mas "HomePass", id: 1330266650
 mas "Hush", id: 1544743900
 mas "Kindle", id: 302584613
@@ -31,14 +30,10 @@ mas "PDF Inspector", id: 1497698069
 mas "Photomator", id: 1444636541
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
-mas "Proton VPN: Fast & Secure", id: 1437005085
 mas "Reeder", id: 1529448980
 mas "SEE Finance", id: 6755652042
-mas "Signal - Private Messenger", id: 874139669
-mas "Slack", id: 803453959
 mas "Sofa", id: 1276554886
 mas "TextPlus", id: 1234445803
 mas "The Camelizer", id: 1532579087
 mas "Unicorn Blocker", id: 1231935892
-mas "Vidzik", id: 6467666216
 mas "Xcode", id: 497799835
